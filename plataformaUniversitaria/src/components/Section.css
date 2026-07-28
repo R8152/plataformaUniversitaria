@@ -37,9 +37,21 @@
 .economia_visual{
     padding: 8px;
     background-color: white;
+    box-shadow: 10px gray;
 }
 .Background{
     border-radius: 2%;
+}
+.Novo{
+    width: 174px; height: 154px; display: flex; justify-content: center; flex-direction: column; 
+    background-color: white; border: 1px solid black; border-radius: 15px; position: relative; bottom: 120px; right: 40px;
+    padding-left: 24px;
+}
+.Novo1{
+    font-family: "JetBrains Mono"; font-size: 12px; color: #00652C; padding-bottom: 10px; text-align: start;
+}
+.Novo2{
+    font-family: "Inter"; font-size: 14px; line-height: 0.3; 
 }
 .div-itens{
     display: flex;
@@ -47,19 +59,8 @@
 }
 .text-item{margin-right: 8px;}
 .anuncio{
-    height: 60px;
-    width: 202px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    background-color: #15803D;
-    font-family: "Inter";
-    font-weight: bold;
-    font-size: 16px;
-    border: 0px;
-    border-radius: 15px;
-    margin-right: 16px;
+    height: 60px; width: 202px; display: flex; justify-content: center; align-items: center; color: white; background-color: #15803D;
+    font-family: "Inter"; font-weight: bold; font-size: 16px; border: 0px; border-radius: 15px; margin-right: 16px;
 }
 .explorar{
     height: 60px;

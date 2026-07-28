@@ -29,6 +29,10 @@ function Section(btn){
             </main>
             <main className="economia_visual">
                 <img src={Background} alt="" className="Background"/>
+                <div className="Novo">
+                    <span className="Novo1">Novo no Campus?</span>
+                    <span className="Novo2">Encontre materiais de <p>veteranos por uma</p> <p>fração do preço</p> original.</span>
+                </div>
             </main>
         </section>
     )
