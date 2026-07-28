@@ -1,7 +1,6 @@
 import Perfil from '../images/Perfil.jpg';
 import Sino from '../images/Sinonotificar.jpg';
 import "./Header.css"
-import
 function Header(btn) {
     return (
         <header className="Header-body">
