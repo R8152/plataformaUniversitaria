@@ -1,0 +1,77 @@
+.economia_circular{
+    margin: 159px 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.economia_info_title{
+    background-color: #DCFCE7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 6px;
+    border-radius: 25px;
+    width: 287.11px;
+}
+.economia_title{
+    font-family: 'JetBrains Mono';
+    color: #00652c;
+    font-size: 14px;
+    margin-left: 8px;
+}
+.economia_info{
+    margin: 90px 48px 90px 0px;
+}
+.economia_text1{
+    font-family: "Hanken Grotesk";
+    line-height: 0.3;
+    font-weight: bold;
+    font-size: 40px;
+}
+.economia_text2{
+    font-family: "Inter";
+    color: #3F493F;
+    line-height: 0.5;
+    margin: 32px 0px 32px;
+}
+.economia_visual{
+    padding: 8px;
+    background-color: white;
+}
+.Background{
+    border-radius: 2%;
+}
+.div-itens{
+    display: flex;
+    align-items: center;
+}
+.text-item{margin-right: 8px;}
+.anuncio{
+    height: 60px;
+    width: 202px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #15803D;
+    font-family: "Inter";
+    font-weight: bold;
+    font-size: 16px;
+    border: 0px;
+    border-radius: 15px;
+    margin-right: 16px;
+}
+.explorar{
+    height: 60px;
+    width: 202px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00652C;
+    background-color: white;
+    font-family: "Inter";
+    font-weight: bold;
+    font-size: 16px;
+    border: 3px solid #00652C;
+    border-radius: 15px;
+}
