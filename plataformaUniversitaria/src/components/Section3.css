@@ -1,0 +1,97 @@
+.Section3{
+    margin: 96px 0px;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin: 0px 64px;
+}
+.h1_div11{
+    font-family: "Hanken Grotesk";
+    font-size: 32px;
+    line-height: 0.5;
+}
+.span_div11{
+    font-family: "Inter";
+    font-size: 16px;
+    color: #3F493F;
+    text-decoration: underline;
+}
+.div12{
+    margin-top: 45px;
+    font-family: "JetBrains Mono";
+    display: flex;
+}
+.span_div121, .span_div122, .span_div123{
+    margin-right: 8px;
+}
+.span_div121, .span_div122, .span_div123, .span_div124{
+    font-size: 14px;
+    color: #00652C;
+    padding: 8px 16px;
+    background-color: #DCFCE7;
+    border-radius: 20px;
+}
+.main2{
+    margin: 48px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div21, .div22, .div23, .div24{
+    width: 270px;
+    height: 391.35px;
+    border: 1px solid #415a8b;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.Livros, .Eng, .Comp, .Science{
+    border-radius: 15px 15px 0px 0px;
+}
+.product21, .product22, .product23, .product24{
+    font-family: "Inter";
+    font-size: 16px;
+    margin: 20px 20px 0px 20px;
+}
+.local-produto2{
+    margin: 12px 20px;
+    display: flex;
+    flex-direction: row;
+}
+.nome-local2{
+    font-family: "JetBrains Mono";
+    font-size: 14px;
+    color: #3F493F;
+    margin-left: 8px;
+}
+.info-preco{
+    border-top: 1px solid #f3f4f6;
+    margin: 12px 20px 0px 20px;
+    height: 49.35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.span-preco{
+    font-family: "JetBrains Mono";
+    font-size: 16px;
+    color: #00652C;
+}
+.main3{
+    margin-top: 48px;
+    display: flex;
+    justify-content: center;
+}
+.text3{
+    font-family: "Inter";
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    background-color: #00652C;
+    padding: 12px 40px;
+    border-radius: 35px;
+}
