@@ -1,0 +1,40 @@
+.Section2{
+    background-color: #F1F3FF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.itens-trocados, .co2-evitado, .dinheiro-aluno{
+    height: 270px;
+    width: 362.67px;
+    background-color: white;
+    margin: 80px 0px;
+    border: 0.5px solid #BECABC;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title-main{
+    font-size: 24px;
+    font-family: "Hanken Grotesk";
+    font-weight: bold;
+    color: #00652c;
+}
+.subtitle-main{
+    font-size: 14px;
+    font-family: "JetBrains Mono";
+    color: #3F493F;
+    margin: 16px 0px;
+}
+.info-main{
+    font-family: "Inter";
+    font-size: 14px;
+    color: #3F493F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 0.5;
+}
