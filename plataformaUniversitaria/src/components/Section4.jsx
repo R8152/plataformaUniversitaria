@@ -1,6 +1,7 @@
 import "./Section4.css"
 import Vantagem from "../images/check.png"
 import Hat_background from "../images/hat-background.png"
+import Leaf from "../images/Container.png"
 function Section4(){
     return(
         <section className="Section4">
@@ -39,7 +40,28 @@ function Section4(){
                     <span className="btn412">Desapegar Agora</span>
                 </div>
             </main>
-            <main></main>
+            <main className="main42">
+                <div className="div421">
+                    <h1 className="title421">Compromisso Verde</h1>
+                    <span className="info421">
+                        <p>Cada item trocado é um produto a menos no</p>
+                        <p>aterro sanitário. Juntos, estamos construindo</p>
+                        <p>um campus sustentável.</p>
+                    </span>
+                </div>
+                <div className="div422">
+                    <div className="titleinfo">
+                        <div className="names">
+                            <h1 className="title422">Meta de CO2 Semestral</h1>
+                            <span className="info422">84% atingida</span>
+                        </div>
+                        <div className="progress100">
+                            <div className="progress84"></div>
+                        </div>
+                    </div>
+                    <img src={Leaf} alt="" className="Leaf"/>
+                </div>
+            </main>
         </section>
     )
 }
