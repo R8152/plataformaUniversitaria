@@ -1,3 +1,52 @@
 .EmailPart{
-    
+    margin: 81px 64px;
+    height: 345px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #141B2B;
+    border-radius: 32px;
+}
+.title{
+    color: white;
+    font-size: 40px;
+    font-family: "Hanken Grotesk";
+}
+.infoEmail{
+    color: white;
+    font-size: 18px;
+    font-family: "Inter";
+    text-align: center;
+    line-height: 0.7;
+}
+.emailcomeco{
+    margin-top: 24px;
+}
+.email{
+    color: #6B7280;
+    border: 1px solid #353B49;
+    border-radius: 10px;
+    font-family: "Inter";
+    font-size: 16px;
+    background-color: #2B3140;
+    width: 334px;
+    padding: 18px 145px 18px 24px;
+}
+.comeco{
+    color: white;
+    background-color: #00652C;
+    font-family: "Inter";
+    font-weight: bold;
+    font-size: 16px;
+    padding: 16px 32px;
+    margin-left: 16px;
+    border-radius: 10px;
+    border: 0px;
+}
+.exclusive{
+    color: #82868E;
+    font-family: "Inter";
+    font-size: 12px;
+    margin-top: 24px;
 }
